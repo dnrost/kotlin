@@ -4,7 +4,7 @@
  */
 
 fun main(args: Array<String>) {
-    println("Hello, world!")
+    println("Hello, world!");
     for (x in args)
-    	println(x)
+    	println(x);
 }
